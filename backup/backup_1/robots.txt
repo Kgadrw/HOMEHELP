@@ -1,0 +1,39 @@
+# ── Home Help Rwanda ──────────────────────────────────────────
+# homehelp.rw | Brilliant Elite Ltd | Kigali, Rwanda
+
+User-agent: *
+
+# Allow public pages
+Allow: /$
+Allow: /career
+Allow: /find-worker
+Allow: /register
+Allow: /login
+Allow: /worker-register
+Allow: /worker-login
+Allow: /terms
+Allow: /privacy
+
+# Block private/dashboard areas
+Disallow: /dashboard
+Disallow: /admin
+Disallow: /agent
+Disallow: /provider-dashboard
+Disallow: /book
+Disallow: /my-bookings
+Disallow: /my-applications
+Disallow: /apply
+Disallow: /profile
+Disallow: /staff-login
+Disallow: /worker-login
+Disallow: /reset-password
+Disallow: /google-login
+
+# Block sensitive folders
+Disallow: /config/
+Disallow: /includes/
+Disallow: /uploads/
+Disallow: /backup/
+
+# Sitemap location
+Sitemap: https://homehelp.rw/sitemap.xml

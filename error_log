@@ -1,0 +1,40 @@
+[30-Aug-2026 08:39:50 Africa/Kigali] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/homehelp/public_html/find-worker.php:50
+Stack trace:
+#0 /home/homehelp/public_html/find-worker.php(50): mysqli_stmt->bind_param('i', 9)
+#1 {main}
+  thrown in /home/homehelp/public_html/find-worker.php on line 50
+[30-Aug-2026 08:40:10 Africa/Kigali] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/homehelp/public_html/find-worker.php:50
+Stack trace:
+#0 /home/homehelp/public_html/find-worker.php(50): mysqli_stmt->bind_param('i', 9)
+#1 {main}
+  thrown in /home/homehelp/public_html/find-worker.php on line 50
+[30-Aug-2026 08:41:09 Africa/Kigali] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/homehelp/public_html/find-worker.php:50
+Stack trace:
+#0 /home/homehelp/public_html/find-worker.php(50): mysqli_stmt->bind_param('i', 9)
+#1 {main}
+  thrown in /home/homehelp/public_html/find-worker.php on line 50
+[18-Sep-2026 12:31:08 Africa/Kigali] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/homehelp/public_html/find-worker.php:50
+Stack trace:
+#0 /home/homehelp/public_html/find-worker.php(50): mysqli_stmt->bind_param('i', 9)
+#1 {main}
+  thrown in /home/homehelp/public_html/find-worker.php on line 50
+[07-Oct-2026 11:27:13 Africa/Kigali] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/homehelp/public_html/find-worker.php:50
+Stack trace:
+#0 /home/homehelp/public_html/find-worker.php(50): mysqli_stmt->bind_param('is', 9, '%Kevin Kagambag...')
+#1 {main}
+  thrown in /home/homehelp/public_html/find-worker.php on line 50
+[07-Oct-2026 11:27:16 Africa/Kigali] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/homehelp/public_html/find-worker.php:50
+Stack trace:
+#0 /home/homehelp/public_html/find-worker.php(50): mysqli_stmt->bind_param('is', 9, '%Kevin Kagambag...')
+#1 {main}
+  thrown in /home/homehelp/public_html/find-worker.php on line 50
+[26-Oct-2026 17:20:00 Africa/Kigali] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/homehelp/public_html/find-worker.php:50
+Stack trace:
+#0 /home/homehelp/public_html/find-worker.php(50): mysqli_stmt->bind_param('i', 6)
+#1 {main}
+  thrown in /home/homehelp/public_html/find-worker.php on line 50
+[26-Oct-2026 17:20:03 Africa/Kigali] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/homehelp/public_html/find-worker.php:50
+Stack trace:
+#0 /home/homehelp/public_html/find-worker.php(50): mysqli_stmt->bind_param('i', 6)
+#1 {main}
+  thrown in /home/homehelp/public_html/find-worker.php on line 50
